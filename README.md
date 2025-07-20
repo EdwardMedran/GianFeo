@@ -1,2 +1,0 @@
-# GianFeo
-Repositorio para Gian 
